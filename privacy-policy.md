@@ -6,7 +6,7 @@ This policy sets out how we process any personal data we collect from you or tha
 We may collect, store and use the following kinds of personal information about individuals who visit and use our website and social media sites:
 Information you supply to us. You may supply us with information about you by filling in forms on our website or social media. This includes information you provide when you submit a contact/inquiry form. The information you give us may include but is not limited to, your name, address, e-mail address, and phone number.
 ### How we may use the information we collect
-## We use the information in the following ways:
+#### We use the information in the following ways:
 Information you supply to us. We will use this information:
 * To provide you with information and/or services that you request from us;
 * To contact you to provide the information requested.
